@@ -22,7 +22,7 @@
     <td style="border: none;">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMaganin&layout=compact&theme=dark&title_color=39FF14"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMaganin&hide=html,css,scss&layout=compact&theme=dark&title_color=39FF14"
           media="(prefers-color-scheme: dark)"
         />
         <source
