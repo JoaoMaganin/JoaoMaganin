@@ -22,14 +22,14 @@
     <td style="border: none;">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMaganin&hide=css&layout=compact&theme=dark&title_color=39FF14"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMaganin&hide=css,html&layout=compact&theme=dark&title_color=39FF14"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMaganin&hide=css&layout=compact&title_color=000080"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMaganin&hide=css,html&layout=compact&title_color=000080"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMaganin&hide=css&layout=compact&title_color=000080" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMaganin&hide=css,html&layout=compact&title_color=000080" />
       </picture>
     </td>
   </tr>
